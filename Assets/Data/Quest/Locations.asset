@@ -706,7 +706,7 @@ MonoBehaviour:
   - countryName: Kazakhstan
     countryCode3: KAZ
     curatedCities:
-    - cityName: Nur-Sultan
+    - cityName: Astana
       overrideCountryName: 
       overrideCountryFlagCode: 
   - countryName: Kenya
